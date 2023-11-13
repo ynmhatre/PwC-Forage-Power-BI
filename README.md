@@ -10,7 +10,7 @@ Build a Power BI dashboard to showcase key performance indicators (KPIs) and met
 
 ![image](https://github.com/ynmhatre/PwC-Forage-Power-BI/assets/57178366/5e66be3c-4f9d-4efa-adf8-ae4d25069412)
 
-
+![image](https://github.com/ynmhatre/PwC-Forage-Power-BI/assets/57178366/0f4eb3ee-132e-4fb1-923e-a1ebb595a256)
 
 Task 3: Customer Retention
 
