@@ -14,8 +14,11 @@ Build a Power BI dashboard to showcase key performance indicators (KPIs) and met
 
 Task 3: Customer Retention
 
-
 Develop a dashboard incorporating the specified KPIs to represent customer demographics and insights. Draft a brief email to the engagement partner outlining your discoveries and offering recommendations for any required dashboard adjustments based on your analysis.
+
+![image](https://github.com/ynmhatre/PwC-Forage-Power-BI/assets/57178366/7c75da0f-f9f0-4146-8340-4c75c2787913)
+
+![image](https://github.com/ynmhatre/PwC-Forage-Power-BI/assets/57178366/e0a2fd19-2676-4767-b02f-45591da5334c)
 
 Task 4: Diversity & Inclusion
 
