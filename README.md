@@ -23,3 +23,14 @@ Develop a dashboard incorporating the specified KPIs to represent customer demog
 Task 4: Diversity & Inclusion
 
 Generate visualizations to depict HR data, with a specific emphasis on key performance indicators related to gender. Analyze and explore potential underlying reasons for the sluggish advancement in attaining gender balance within the executive management tier.
+1.	Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualization.
+
+![image](https://github.com/ynmhatre/PwC-Forage-Power-BI/assets/57178366/39191860-5501-40a4-b3c2-7fcb6789e54d)
+
+![image](https://github.com/ynmhatre/PwC-Forage-Power-BI/assets/57178366/4069b066-8c14-4e87-b115-97016dd3cc3e)
+
+![image](https://github.com/ynmhatre/PwC-Forage-Power-BI/assets/57178366/093d2390-ebfd-4b13-8ddd-025b904aee84)
+
+![image](https://github.com/ynmhatre/PwC-Forage-Power-BI/assets/57178366/75d3fb27-8e02-4318-a237-b644512dde7f)
+
+![image](https://github.com/ynmhatre/PwC-Forage-Power-BI/assets/57178366/2775bf99-9f69-4051-b16c-55f9075ebb86)
